@@ -1,6 +1,4 @@
 # luci-app-opengfw
-OpenWrt &amp; iStoreOS openGFW可视化控制面板，支持 Shadowsocks/VMess/Trojan 深度特征识别与拦截
-# luci-app-opengfw
 
 OpenGFW 是一个基于 Linux Netfilter NFQUEUE 的高性能、灵活的深度报文检测 (DPI) 与流量过滤引擎。  
 本项目是专为 **OpenWrt** 与 **iStoreOS** 软路由系统打造的独立可视化管理控制面板（WebUI & LuCI 插件）。
